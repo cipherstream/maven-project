@@ -46,3 +46,6 @@ local.properties
 flows/
 target/
 src/main/api/.repository/ 
+
+# Funky Mac DS_Store
+.DS_Store
