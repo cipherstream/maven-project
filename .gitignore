@@ -47,5 +47,9 @@ flows/
 target/
 src/main/api/.repository/ 
 
-# Funky Mac DS_Store
+# Funky Mac DS_Store #
 .DS_Store
+
+# Additional ignore #
+activemq-data/
+derby.log
