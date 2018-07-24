@@ -13,10 +13,10 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<mule.version>3.9.1</mule.version>
-    	<mule.tools.version>1.2</mule.tools.version>
-    	
-    	<uid>chenson_jul2018</uid>
-    	<pwd>junk</pwd>
+	    	<mule.tools.version>1.2</mule.tools.version>
+	    	
+	    	<uid>chenson_jul2018</uid>
+	    	<pwd>junk</pwd>
 	</properties>
 
 	<build>
